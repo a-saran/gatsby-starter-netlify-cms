@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ex a ac
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 tags:
-  - prasanna
+  - Prasanna
 ---
 Whether you are a coder who specializes in ReactJS development services, AngularJS development services, or React native Development services this atom editor setup is sure to drastically improve your productivity.
 
