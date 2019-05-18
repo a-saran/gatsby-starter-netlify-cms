@@ -6,9 +6,9 @@ date: 2017-06-08
 featuredpost: true
 description: >-
   Intro to the Art of Creating Successful Products
-
+author: Anand Narayan
 tags:
-  - Anand Narayan
+  - maobile app
 ---
 
 > ‘Creating a successful product is seldom a matter of chance.’

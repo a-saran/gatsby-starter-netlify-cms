@@ -6,7 +6,7 @@ featuredpost: true
 description: >-
   Using Higher Order Components in a React Application
 tags:
-  - Prasanna
+  - higher order components in reactjs
 author: Prasanna
 ---
 

@@ -5,9 +5,9 @@ date: 2017-07-18
 featuredpost: true
 description: >-
   Getting Started with microservices.
-
+author: Tarun Batra
 tags:
-  - Tarun Batra
+  - microservices
 ---
 
 __Microservices__ is a vague term which usually points to small independent services which together form up an application. [Microservices architecture](https://martinfowler.com/articles/microservices.html) stands in contrast to Monolithic architecture, where the application is one big system. We will discuss about how to get started as a beginner and choosing the right tools for setting up microservice architechture.

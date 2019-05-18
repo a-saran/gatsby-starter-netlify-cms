@@ -5,8 +5,8 @@ date: 2017-08-19
 featuredpost: true
 description: >-
   Building Progressive Web App With React
-tags:
-  - Balram Khichar
+author: Balram Khichar
+tag: 
 ---
 [Progressive web apps](https://developers.google.com/web/progressive-web-apps/) (PWAs) came in the lime light recently. It uses the best of web and the best of apps to give a smooth experience to users and feels like native app. PWAs are responsive and fast, consume less data, need less storage space, support push notifications and offline use in browser. Twitter recently launched [mobile.twitter.com](https://mobile.twitter.com/) which delivers mobile app like experience to users in browser without actually installing on user device. This article focuses upon building progressive web app with React JS
 

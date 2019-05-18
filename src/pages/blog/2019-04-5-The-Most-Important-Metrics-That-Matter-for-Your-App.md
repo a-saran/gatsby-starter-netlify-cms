@@ -5,8 +5,7 @@ date: 2019-04-19
 featuredpost: true
 description: >-
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ex a accusamus facilis aperiam sed ad tenetur molestiae cum ipsam, sunt eius rerum numquam commodi ipsa quas sequi optio molestias?
-tags:
-  - Anand Narayan
+author: Anand Narayan
 ---
 The world of apps is competitive today. Different companies are entering the marketplace every day competing for the same users. When it comes to measuring the success of your app, you need to keep a close eye on the right metrics. App developers already know there’s an unlimited library of metrics to choose from, but which ones actually matter when measuring success?
 

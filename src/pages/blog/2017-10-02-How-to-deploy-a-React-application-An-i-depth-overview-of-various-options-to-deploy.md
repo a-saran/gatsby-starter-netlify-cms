@@ -5,8 +5,7 @@ date: 2017-10-02
 featuredpost: true
 description: >-
   Learn how to optimize bundle and deploy a React application
-tags:
-  - Prasanna
+author: Prasanna
 ---
 A lot of front end application development companies are using React for developing applications. Deploying an application refers to making the application accessible to the world through internet. We will discuss about the various ways to deploy a React application, the platforms to deploy and test the applications. There are a lot of articles describing how to deploy a React application. We will mention about each steps involved in detail as per our experience and various options to how to do it. This article is written assuming webpack as the module bundler to generate the bundled assets for a client side deployment.
 

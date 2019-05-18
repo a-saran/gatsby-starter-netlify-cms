@@ -5,8 +5,7 @@ date: 2017-08-19
 featuredpost: true
 description: >-
   structuring asynchronous requests in react redux application.
-tags:
-  - Prasanna
+author: Prasanna
 ---
 
 ## Introduction

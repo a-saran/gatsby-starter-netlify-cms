@@ -5,8 +5,7 @@ date: 2019-04-22
 featuredpost: true
 description: >-
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ex a accusamus facilis aperiam sed ad tenetur molestiae cum ipsam, sunt eius rerum numquam commodi ipsa quas sequi optio molestias?
-tags:
-  - Anand Narayan
+author: Anand Narayan
 ---
 The Internet renders geographical distance and physical barriers irrelevant. Immediately an online store goes live, it theoretically has access to the [more than 4 billion internet](https://wearesocial.com/blog/2019/01/digital-2019-global-internet-use-accelerates) users around the world.
 

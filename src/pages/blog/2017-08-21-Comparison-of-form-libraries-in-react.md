@@ -5,8 +5,7 @@ date: 2017-08-19
 featuredpost: true
 description: >-
   Comparison of form libraries in react
-tags:
-  - Anushul Sahni
+author: Anushul Sahni
 ---
 
 ## Introduction

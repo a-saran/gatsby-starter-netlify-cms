@@ -5,8 +5,7 @@ date: 2017-09-10
 featuredpost: true
 description: >-
   Optimizing React Redux application using Reselect
-tags:
-  - Prasanna
+author: Prasanna
 ---
 
 __React and Redux__ compliment each other well. React Components subscribe to Redux store due to which the child components re renders when the state (Redux state) is changed every time. So any component which is subscribed to Redux re renders when there is a state change (unless and until we mention not to do so). This is a prime reason for which there is a need for optimizing React Redux applications in order to avoid unnecessary re renders. Reselect is a library which can be effectively used in a React Redux application for the same. In this __Reselect tutorial__ we will explore how Reselect will help in optimizing React Redux application.

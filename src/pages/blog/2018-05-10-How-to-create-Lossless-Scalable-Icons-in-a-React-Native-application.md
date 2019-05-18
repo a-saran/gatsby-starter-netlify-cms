@@ -5,8 +5,7 @@ date: 2019-05-10
 featuredpost: true
 description: >-
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea ex a accusamus facilis aperiam sed ad tenetur molestiae cum ipsam, sunt eius rerum numquam commodi ipsa quas sequi optio molestias?
-tags:
-  - Arivanandan
+author: Arivanandan
 ---
 Developing iOS and Android applications by React Native is growing day by day. Stunning UI can be easily achieved by the right combination of images and styled content like icons / texts. SVG is the best available option for rendering an icon in a React Native application development process. Unfortunately React Native does not natively support SVG rendering. Although there are a couple of libraries out there that do it, turning icons into fonts makes it much simpler to display clean-cut icons with consistent dimensions with dynamic styling (including colors / size etc…)
 
