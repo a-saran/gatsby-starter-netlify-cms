@@ -7,6 +7,7 @@ description: >-
   Using Higher Order Components in a React Application
 tags:
   - Prasanna
+author: Prasanna
 ---
 
 If you have started using [ReactJS](https://codebrahma.com/react-js-development/) recently often you might have felt that you are performing repeated logic in many components. For example consider an app having:
