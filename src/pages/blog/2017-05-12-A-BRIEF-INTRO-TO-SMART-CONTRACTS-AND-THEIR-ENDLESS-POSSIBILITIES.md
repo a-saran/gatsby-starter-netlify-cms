@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'A BRIEF INTRO TO SMART CONTRACTS AND THEIR ENDLESS POSSIBILITIES'
-date: 2017-06-13
+date: 2017-05-12
 featuredpost: true
 description: >-
   A BRIEF INTRO TO SMART CONTRACTS AND THEIR ENDLESS POSSIBILITIES

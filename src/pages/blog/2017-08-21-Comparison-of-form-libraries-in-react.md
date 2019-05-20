@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Comparison of form libraries in react'
-date: 2017-08-19
+date: 2017-08-21
 featuredpost: true
 description: >-
   Comparison of form libraries in react

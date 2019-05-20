@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Should You Build A Mobile App or A Responsive Web App'
-date: 2017-02-14
+date: 2017-02-08
 featuredpost: true
 description: >-
   Should You Build A Mobile App or A Responsive Web App

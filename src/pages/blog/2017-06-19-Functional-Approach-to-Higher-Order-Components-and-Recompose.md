@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Functional Approach to Higher Order Components and Recompose'
-date: 2017-08-19
+date: 2017-06-19
 featuredpost: true
 description: >-
   Functional Approach to Higher Order Components and Recompose

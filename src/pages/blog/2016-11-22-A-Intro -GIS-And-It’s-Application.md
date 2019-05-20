@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'A Basic Intro To GIS And It’s Application'
-date: 2017-02-14
+date: 2016-11-22
 featuredpost: true
 description: >-
   A Basic Intro To GIS And It’s Application

@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Async operations in React Redux applications'
-date: 2017-08-19
+date: 2017-07-03
 featuredpost: true
 description: >-
   structuring asynchronous requests in react redux application.

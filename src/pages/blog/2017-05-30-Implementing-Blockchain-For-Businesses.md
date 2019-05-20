@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Implementing Blockchain For Businesses'
-date: 2017-06-08
+date: 2017-05-30
 featuredpost: true
 description: >-
   A quick guide to help you understand whether blockchain is the right technology for your business and it’s goals.
