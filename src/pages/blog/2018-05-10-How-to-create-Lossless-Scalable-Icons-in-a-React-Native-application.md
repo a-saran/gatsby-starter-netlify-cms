@@ -32,37 +32,21 @@ In this case we are using InkScape since it’s available across Mac, Windows an
 2. One thing to note is multi-colored icons aren’t really a thing. So, if I was exporting the above icon from Sketch, we would simply export the inner most lines and circles and leave the circular lavender background. If that proves difficult, extract our icon using InkScape.
 3. Open up the SVG in InkScape and select the second option in the left pane Edit Paths by Node (F2). Select all the paths you need by holding down shift and left clicking them. If the lines happen to be invisible for some reason simply hovering over the area where they are would show outlines. Now cut out your selection. Let’s remove what was left out. Select everything else on screen, choose the Selection tool (first on the left pane / F1) and delete. Paste the selection that you cut out earlier.
 
-<p align=center>
-  <a  href="https://codebrahma.com/wp-content/uploads/2018/06/react-native-app-development-.png">
-    <img src='/img/react-native-app-development-.png' alt='img'>
-  </a>
-</p>
+![image](/img/react-native-app-development-.png)
 
 Right click and Group them.
 
 You can play around with this a little bit to see what’s happening. Basically, if you set Stroke color and see your image filling up like so, then it isn’t ready for conversion into a font. Shift + Ctrl + F brings it up.
 
-<p align=center>
-  <a  href="https://codebrahma.com/wp-content/uploads/2018/06/react-native-vector-icons.png">
-    <img src='./assets/react-native-vector-icons-300x196.png' alt='img'>
-  </a>
-</p>
+![image](/img/react-native-vector-icons-300x196.png)
 
 Select your image and click on the Path menu and choose Stroke to Path. After that you can try to remove colors for Stroke and choose a color for Fill and see if the icons color up with just the Fill color set.
 
-<p align=center>
-  <a  href="https://codebrahma.com/wp-content/uploads/2018/06/react-native-vector-icons-2.png">
-    <img src='./assets/react-native-vector-icons-2-300x229.png' alt='img'>
-  </a>
-</p>
+![image](/img//react-native-vector-icons-2-300x229.png)
 
 In this case it was not working. So to make it work, get into the XML editor which is brought up with Shift + Ctrl + X. Select each of the paths that have Stroke on them and convert them to Paths by pressing Ctrl + Alt + C or going into the menu.
 
-<p align=center>
-  <a  href="https://codebrahma.com/wp-content/uploads/2018/06/react-native-vector-icons-2.png">
-    <img src='./assets/react-native-vector-icons-3-300x182.png' alt='img'>
-  </a>
-</p>
+![image](/img/react-native-vector-icons-3-300x182.png)
 
 The colors that you got from Strokes, you get them from Fills now. The SVG is ready to go into our font!
 
@@ -77,19 +61,11 @@ Put the .json and the .ttf files into your assets folder. For Android, you simpl
 
 &nbsp; &nbsp; &nbsp; &nbsp;Add the font file to info.plist.
 
-<p align=center>
-  <a  href="https://codebrahma.com/wp-content/uploads/2018/06/react-native-app-development-services.png">
-    <img src='./assets/react-native-app-development-services-300x71.png' alt='img'>
-  </a>
-</p>
+![image](/img/react-native-app-development-services-300x71.png)
 
 &nbsp; &nbsp; &nbsp; &nbsp;Make sure it shows up in Build Phases under Copy Bundle Resources. Create an entry and point it to your font location.
- 
-<p align=center>
-  <a  href="https://codebrahma.com/wp-content/uploads/2018/06/react-native-app-development-services-2.png">
-    <img src='./assets/react-native-app-development-services-2-300x92.png' alt='img'>
-  </a>
-</p>
+
+![image](/img/react-native-app-development-services-2-300x92.png)
 
 If you think you didn’t get it right check out react-native-vector-icons’ git for a more detailed explanation.
 
